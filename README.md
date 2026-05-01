@@ -9,7 +9,7 @@ Specializing in **Ruby on Rails**, **React Native**, and **ReactJS**, from API d
 
 - 🏗️ Built and shipped **50+ white-label mobile apps** on App Store & Google Play
 - 🔧 Backend-focused engineer with deep experience in **Rails APIs**, **PostgreSQL**, and **Sidekiq**
-- 📱 Mobile engineer comfortable with the full React Native lifecycle — build, debug, publish
+- 📱 Mobile engineer comfortable with the full React Native lifecycle, build, debug, publish
 - ☁️ Hands-on with **AWS** (EC2, RDS, S3, Auto Scaling) and **Nginx** configuration
 - 🔔 Led migration of push notification system to **FCM HTTP v1 API** with custom OAuth 2.0 integration
 - 👥 Managed and mentored junior developers and interns
