@@ -1,7 +1,7 @@
 # Hi, I'm Salman Riaz 👋
 
 **Full-Stack Software Engineer** with 7+ years building production web and mobile applications.
-Specializing in **Ruby on Rails**, **React Native**, and **ReactJS** — from API design to App Store deployment.
+Specializing in **Ruby on Rails**, **React Native**, and **ReactJS**, from API design to App Store deployment.
 
 ---
 
