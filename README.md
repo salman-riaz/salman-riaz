@@ -20,7 +20,7 @@ Specializing in **Ruby on Rails**, **React Native**, and **ReactJS** — from AP
 ## 🔍 Currently Exploring
 
 - 🤖 AI automation workflows and LLM-powered tooling
-- 🚀 DevOps practices — CI/CD pipelines, Docker, and infrastructure automation
+- 🚀 DevOps practices, CI/CD pipelines, Docker, and infrastructure automation
 - 🧪 Test-driven development and improving test coverage on production systems
 
 ---
@@ -73,7 +73,7 @@ Specializing in **Ruby on Rails**, **React Native**, and **ReactJS** — from AP
 > Labor organization communication platform serving **50+ unions** and thousands of members
 
 - 50+ white-label React Native apps on App Store & Google Play, migrated from legacy Sencha Touch
-- FCM push notification overhaul — HTTP v1 API migration with OAuth 2.0 service account auth, per-tenant credential management via S3,    and wave-based batching (1,000 devices/wave) to avoid rate limiting at scale
+- FCM push notification overhaul, HTTP v1 API migration with OAuth 2.0 service account auth, per-tenant credential management via S3,    and wave-based batching (1,000 devices/wave) to avoid rate limiting at scale
 - REST API with public/authenticated endpoint whitelisting and Doorkeeper OAuth2 for WordPress SSO
 - N+1 query elimination and Redis caching for high-traffic API endpoints
 - Sidekiq + Redis background job processing for async tasks and recurring event systems
