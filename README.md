@@ -72,10 +72,16 @@ Specializing in **Ruby on Rails**, **React Native**, and **ReactJS** — from AP
 ### UnionConnect — Multi-Tenant Mobile Platform
 > Labor organization communication platform serving **50+ unions** and thousands of members
 
-- 50+ white-label React Native apps on App Store & Google Play
-- Custom FCM HTTP v1 push notification system with OAuth 2.0 service account auth
+- 50+ white-label React Native apps on App Store & Google Play, migrated from legacy Sencha Touch
+- FCM push notification overhaul — HTTP v1 API migration with OAuth 2.0 service account auth, per-tenant credential management via S3,    and wave-based batching (1,000 devices/wave) to avoid rate limiting at scale
+- REST API with public/authenticated endpoint whitelisting and Doorkeeper OAuth2 for WordPress SSO
 - N+1 query elimination and Redis caching for high-traffic API endpoints
-- Real-time chat server (Express.js) deployed on AWS EC2
+- Sidekiq + Redis background job processing for async tasks and recurring event systems
+- Stripe Connect integration supporting per-org merchant accounts, dues collection, and event payment processing
+- Role-based access control (CanCan) with 9 role types and feature-flag-gated permissions per tenant
+- Twilio SMS/voice integration with OTP-based two-factor authentication
+- Production 4-process Heroku architecture (web, worker, clock, release) with New Relic APM and puma_worker_killer for memory safety
+- Managed and mentored a team of 3–4 junior developers and interns
 
 ### Quickcard — Blockchain Payment Infrastructure
 > Fintech platform for instant funding and cash flow management
