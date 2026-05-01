@@ -17,6 +17,14 @@ Specializing in **Ruby on Rails**, **React Native**, and **ReactJS** — from AP
 
 ---
 
+## 🔍 Currently Exploring
+
+- 🤖 AI automation workflows and LLM-powered tooling
+- 🚀 DevOps practices — CI/CD pipelines, Docker, and infrastructure automation
+- 🧪 Test-driven development and improving test coverage on production systems
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend**
@@ -75,6 +83,14 @@ Specializing in **Ruby on Rails**, **React Native**, and **ReactJS** — from AP
 - RESTful APIs integrated with Stripe, Fluid Pay, and Converge
 - Checkbook.io push-to-card withdrawal system
 - Transaction reporting for withdrawals and settlements
+
+### Vilara — Luxury Fragrance Mobile App
+> Full-stack iOS & Android commerce app built from the ground up | React Native · Expo · Firebase · Shopify
+
+- Phone-based SMS OTP (Firebase Phone Auth) and Facebook OAuth for authentication
+- Gamified loyalty system with tiered membership (Bronze, Silver, Gold), points across purchases and social actions, live giveaway countdowns, and a real-time referral leaderboard
+- Shopify Storefront API for live catalog, variant image swapping, cart sync, and in-app WebView checkout
+- Firebase Cloud Messaging for push notifications, Judge.me for product reviews, and a fragrance quiz mapping preferences to product recommendations
 
 ---
 
